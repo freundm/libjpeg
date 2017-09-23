@@ -60,3 +60,9 @@ config.status
 jconfig.h
 libtool
 stamp-h1
+.libs/
+cjpeg
+djpeg
+jpegtran
+rdjpgcom
+wrjpgcom
